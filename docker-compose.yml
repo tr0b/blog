@@ -1,0 +1,8 @@
+services:
+  server:
+      image: klakegg/hugo:alpine
+      command: server -D --port=1314
+      volumes:
+        - ".:/src"
+      ports:
+        - "1314:1314"
