@@ -1,23 +1,23 @@
-languageCode = "en"
-languageName = "English"
-weight = 2
-title = "My blog"
+languageCode = "es"
+languageName = "Español"
+weight = 1
+title = "Mi blog personal"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ES"
+  isoCode = "es"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My blog where I write stuff"
+  # description = "Mi blog donde escribo."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Thomas"
   image = "img/ancient_ferret.png"
-  headline = "Nice to meet'cha! I'm a polyglot and I love sports. Also I'm a software engineer. I love adventures and learning new things."
-  bio = "Software Engineer, polyglot and I also love sports! Business inquiries to the email attached in my profile."
+  headline = "¡Pura vida! Soy un poliglota y amo los deportes. Tambien soy informatico. Me gustan las aventuras y aprender cosas nuevas."
+  bio = "Informatico, poliglota y tambien amo los deportes! Consultas a mi correo en mi perfil."
   links = [
       { email = "mailto:trobin0000@gmail.com" },
       { link = "https://tr0b.github.io/portfolio/" },
