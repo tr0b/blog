@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 4
-title = "My blog"
+title = "Il mio blog"
 
 [params]
   displayName = "IT"
@@ -16,8 +16,8 @@ title = "My blog"
 [author]
   name = "Thomas"
   image = "img/ancient_ferret.png"
-  headline = "Nice to meet'cha! I'm a polyglot and I love sports. Also I'm a software engineer. I love adventures and learning new things."
-  bio = "Software Engineer, polyglot and I also love sports! Business inquiries to the email attached in my profile."
+  headline = "Ciao! Sono un poliglota e amo gli sport. Anche, sono un ingheniero informatico. Me piaciono le avventure e imparare cose nuove."
+  bio = "Ingheniero informatico, poliglota amante degli sport! Domande aziendale inviarli al mio email sul mio profilo."
   links = [
       { email = "mailto:trobin0000@gmail.com" },
       { link = "https://tr0b.github.io/portfolio/" },
