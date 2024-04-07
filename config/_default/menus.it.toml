@@ -11,27 +11,27 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
+  name = "Articoli"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Portfolio"
+  name = "Portafoglio di progetti"
   pageRef = "portfolio"
   weight = 20
 
 [[main]]
-  name = "Experience"
+  name = "Esperienza di lavoro"
   pageRef = "experience"
   weight = 30
 
 [[main]]
-  name = "Certifications"
+  name = "Certificazioni"
   pageRef = "certifications"
   weight = 40
 
 [[main]]
-  name = "About"
+  name = "Su di me"
   pageRef = "me"
   weight = 50
 

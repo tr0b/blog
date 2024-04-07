@@ -11,27 +11,27 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
+  name = "Entradas"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Portfolio"
+  name = "Portafolio"
   pageRef = "portfolio"
   weight = 20
 
 [[main]]
-  name = "Experience"
+  name = "Experiencia"
   pageRef = "experience"
   weight = 30
 
 [[main]]
-  name = "Certifications"
+  name = "Certificaciones"
   pageRef = "certifications"
   weight = 40
 
 [[main]]
-  name = "About"
+  name = "Sobre mi"
   pageRef = "me"
   weight = 50
 
@@ -42,13 +42,13 @@
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
-#  pageRef = "posts"
+#  pageRef = "entradas"
 #  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"
-#  pageRef = "posts"
+#  pageRef = "entradas"
 #  weight = 20
 
 #[[subnavigation]]
