@@ -1,6 +1,7 @@
 ---
 title: "Posts"
 description: "Different stuff I put here."
+highlightCurrentMenuArea: true
 cascade:
   showReadingTime: true
 ---
