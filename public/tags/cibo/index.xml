@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cibo on No Thomas</title>
+    <link>//localhost:1314/tags/cibo/</link>
+    <description>Recent content in Cibo on No Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Thomas</copyright>
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1314/tags/cibo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12/12 - A song for every month of 2024</title>
+      <link>//localhost:1314/posts/12-over-12-songs-2024/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/posts/12-over-12-songs-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1314/posts/12-over-12-songs-2024/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,122 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Pas Thomas</title><link>/fr/tags/</link><description>Recent content in Tags on Pas Thomas</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>© 2024 Thomas</copyright><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>abelson</title><link>/fr/tags/abelson/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/abelson/</guid><description/></item><item><title>and</title><link>/fr/tags/and/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/and/</guid><description/></item><item><title>computer</title><link>/fr/tags/computer/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/computer/</guid><description/></item><item><title>gerald</title><link>/fr/tags/gerald/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/gerald/</guid><description/></item><item><title>harold</title><link>/fr/tags/harold/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/harold/</guid><description/></item><item><title>interpretation</title><link>/fr/tags/interpretation/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/interpretation/</guid><description/></item><item><title>of</title><link>/fr/tags/of/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/of/</guid><description/></item><item><title>programs</title><link>/fr/tags/programs/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/programs/</guid><description/></item><item><title>sicp</title><link>/fr/tags/sicp/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/sicp/</guid><description/></item><item><title>structure</title><link>/fr/tags/structure/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/structure/</guid><description/></item><item><title>sussman</title><link>/fr/tags/sussman/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/fr/tags/sussman/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pas Thomas</title>
+    <link>//localhost:1314/fr/tags/</link>
+    <description>Recent content in Tags on Pas Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2024 Thomas</copyright>
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1314/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abelson</title>
+      <link>//localhost:1314/fr/tags/abelson/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/abelson/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>And</title>
+      <link>//localhost:1314/fr/tags/and/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/and/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computer</title>
+      <link>//localhost:1314/fr/tags/computer/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/computer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gerald</title>
+      <link>//localhost:1314/fr/tags/gerald/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/gerald/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Harold</title>
+      <link>//localhost:1314/fr/tags/harold/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/harold/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Interpretation</title>
+      <link>//localhost:1314/fr/tags/interpretation/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/interpretation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Of</title>
+      <link>//localhost:1314/fr/tags/of/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/of/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programs</title>
+      <link>//localhost:1314/fr/tags/programs/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/programs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sicp</title>
+      <link>//localhost:1314/fr/tags/sicp/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/sicp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Structure</title>
+      <link>//localhost:1314/fr/tags/structure/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/structure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sussman</title>
+      <link>//localhost:1314/fr/tags/sussman/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/fr/tags/sussman/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

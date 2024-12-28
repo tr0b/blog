@@ -1,8 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>interpretation on Non Thomas</title><link>/it/tags/interpretation/</link><description>Recent content in interpretation on Non Thomas</description><generator>Hugo -- gohugo.io</generator><language>it</language><copyright>© 2024 Thomas</copyright><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/it/tags/interpretation/index.xml" rel="self" type="application/rss+xml"/><item><title>Non Preparazione per SICP</title><link>/it/posts/no-sicp-preparation/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>/it/posts/no-sicp-preparation/</guid><description>&lt;p>Avendo il desiderio d&amp;rsquo;aventarmi in piu profondita negli concetti di scienze computazionali (forse perche non vorrei rimanere un sviluppatore full-stack per sempre&amp;hellip;), ho deciso di mettere le mie fondamenti dubitosi alla sfida, ritornando all&amp;rsquo;aclamato libro &lt;code>Structure and Interpretation of Computer Programs&lt;/code>, dagli autori Harry Abelson e Gerald Jay Sussman. Anzitutti nonostanti, questo libro mi ha chiamato l&amp;rsquo;attenzione circa 3 anni fa, ma mi sono scusato di leggerlo per uno istinto Dunning Krugger, e anche per no avere in quel momento il bisogno d&amp;rsquo;imparare di piu su gli ordinatori, nonostante lavoro con loro tutti i giorni.&lt;/p>
-&lt;p>This blog is also a main motivator to pursue a better understanding of the concepts the authors presented, as part of the curriculum of computer science undergraduates at the Massachussets Institute of Technology (MIT). Not only because it will serve as a journal, but because it also gives me a sense of accountability, by having to actually sit down, read, not procrastinate and learn about the concepts shared in the book.&lt;/p>
-&lt;p>I researched all across the web, and with the old shelved copy I possess of this book, I rapidly skimmed through the concepts. It was clear to me that the following were very important for throughly understanding what this book is about:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Algebra&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Pre-Calculus&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> A basic knowledge of Scheme (a Lisp dialect)&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpretation on Non Thomas</title>
+    <link>//localhost:1314/it/tags/interpretation/</link>
+    <description>Recent content in Interpretation on Non Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>© 2024 Thomas</copyright>
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1314/it/tags/interpretation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Non Preparazione per SICP</title>
+      <link>//localhost:1314/it/posts/no-sicp-preparation/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/it/posts/no-sicp-preparation/</guid>
+      <description>&lt;p&gt;Avendo il desiderio d&amp;rsquo;aventarmi in piu profondita negli concetti di scienze computazionali (forse perche non vorrei rimanere un sviluppatore full-stack per sempre&amp;hellip;), ho deciso di mettere le mie fondamenti dubitosi alla sfida, ritornando all&amp;rsquo;aclamato libro &lt;code&gt;Structure and Interpretation of Computer Programs&lt;/code&gt;, dagli autori Harry Abelson e Gerald Jay Sussman. Anzitutti nonostanti, questo libro mi ha chiamato l&amp;rsquo;attenzione circa 3 anni fa, ma mi sono scusato di leggerlo per uno istinto Dunning Krugger, e anche per no avere in quel momento il bisogno d&amp;rsquo;imparare di piu su gli ordinatori, nonostante lavoro con loro tutti i giorni.&lt;/p&gt;
+&lt;p&gt;This blog is also a main motivator to pursue a better understanding of the concepts the authors presented, as part of the curriculum of computer science undergraduates at the Massachussets Institute of Technology (MIT). Not only because it will serve as a journal, but because it also gives me a sense of accountability, by having to actually sit down, read, not procrastinate and learn about the concepts shared in the book.&lt;/p&gt;
+&lt;p&gt;I researched all across the web, and with the old shelved copy I possess of this book, I rapidly skimmed through the concepts. It was clear to me that the following were very important for throughly understanding what this book is about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Algebra&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Pre-Calculus&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; A basic knowledge of Scheme (a Lisp dialect)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,52 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>wordpress on No Thomas</title><link>/tags/wordpress/</link><description>Recent content in wordpress on No Thomas</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Thomas</copyright><lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>Prime Provisions</title><link>/portfolio/prime_provisions/</link><pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate><guid>/portfolio/prime_provisions/</guid><description>&lt;h2 class="relative group">Introduction
-&lt;div id="introduction" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Late 2022, the whole world was still struggling with the pandemic. Lockdowns were just getting lifted (in some parts) around the world, but the sense of doubt that predated over those months, about a return to normality, was something that crept in my mind.&lt;/p>
-&lt;p>Coupled with a job that kept me fully isolated from the client&amp;rsquo;s needs - relayed over by the Product team - never in my mind did the thought cross to me, that I would have the opportunity to work on such an arduous side-gig.&lt;/p>
-&lt;h2 class="relative group">First Contact
-&lt;div id="first-contact" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#first-contact" aria-label="Anchor">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>I was approached by a wonderful client; he wanted me to build a web store, and a landing page for his new, yacht provisioning service.&lt;/p>
-&lt;p>Thus, during the following weeks, we met constantly (along with my brother, who&amp;rsquo;s remarkable creative design skills gave birth to a slick, user friendly interface) to launch this project.&lt;/p>
-&lt;h2 class="relative group">Final Product
-&lt;div id="final-product" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#final-product" aria-label="Anchor">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>The result? The creation of &lt;a href="https://primeprovisions.cr" target="_blank">
-Prime Provision&amp;rsquo;s web page&lt;/a>, along with a &lt;a href="https://store.primeprovisions.cr" target="_blank">
-web store&lt;/a> that covered all the client&amp;rsquo;s needs.&lt;/p>
-&lt;h2 class="relative group">A short Post-mortem
-&lt;div id="a-short-post-mortem" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#a-short-post-mortem" aria-label="Anchor">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>This was my very first &amp;ldquo;side-gig&amp;rdquo; and serious, successful attempt at freelancing. It showed me that I was able to take on new client facing challenges and work independently, self-owned, guided only by the client&amp;rsquo;s desires; of course, this didn&amp;rsquo;t arrive in the form of cushy, short workdays but rather with lots of late night meetings to make sure that I wasn&amp;rsquo;t deviating from the original vision; to share progress to the client and assure them that their solution would be great.&lt;/p>
-&lt;h2 class="relative group">References
-&lt;div id="references" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#references" aria-label="Anchor">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>Prime provisions web page -&amp;gt; &lt;a href="https://primeprovisions.cr/" target="_blank">
-https://primeprovisions.cr/&lt;/a>&lt;/p>
-&lt;p>Prime provisions web store -&amp;gt; &lt;a href="https://store.primeprovisions.cr" target="_blank">
-https://store.primeprovisions.cr&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on No Thomas</title>
+    <link>//localhost:1314/tags/wordpress/</link>
+    <description>Recent content in Wordpress on No Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Thomas</copyright>
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1314/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prime Provisions</title>
+      <link>//localhost:1314/portfolio/prime_provisions/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1314/portfolio/prime_provisions/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Late 2022, the whole world was still struggling with the pandemic. Lockdowns were just getting lifted (in some parts) around the world, but the sense of doubt that predated over those months, about a return to normality, was something that crept in my mind.&lt;/p&gt;
+&lt;p&gt;Coupled with a job that kept me fully isolated from the client&amp;rsquo;s needs - relayed over by the Product team - never in my mind did the thought cross to me, that I would have the opportunity to work on such an arduous side-gig.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;First Contact 
+    &lt;div id=&#34;first-contact&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#first-contact&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I was approached by a wonderful client; he wanted me to build a web store, and a landing page for his new, yacht provisioning service.&lt;/p&gt;
+&lt;p&gt;Thus, during the following weeks, we met constantly (along with my brother, who&amp;rsquo;s remarkable creative design skills gave birth to a slick, user friendly interface) to launch this project.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Final Product 
+    &lt;div id=&#34;final-product&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#final-product&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The result? The creation of &lt;a href=&#34;https://primeprovisions.cr&#34;   target=&#34;_blank&#34;&gt;
+    Prime Provision&amp;rsquo;s web page&lt;/a&gt;, along with a &lt;a href=&#34;https://store.primeprovisions.cr&#34;   target=&#34;_blank&#34;&gt;
+    web store&lt;/a&gt; that covered all the client&amp;rsquo;s needs.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;A short Post-mortem 
+    &lt;div id=&#34;a-short-post-mortem&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-short-post-mortem&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This was my very first &amp;ldquo;side-gig&amp;rdquo; and serious, successful attempt at freelancing. It showed me that I was able to take on new client facing challenges and work independently, self-owned, guided only by the client&amp;rsquo;s desires; of course, this didn&amp;rsquo;t arrive in the form of cushy, short workdays but rather with lots of late night meetings to make sure that I wasn&amp;rsquo;t deviating from the original vision; to share progress to the client and assure them that their solution would be great.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;References 
+    &lt;div id=&#34;references&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#references&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Prime provisions web page -&amp;gt; &lt;a href=&#34;https://primeprovisions.cr/&#34;   target=&#34;_blank&#34;&gt;
+    https://primeprovisions.cr/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prime provisions web store -&amp;gt; &lt;a href=&#34;https://store.primeprovisions.cr&#34;   target=&#34;_blank&#34;&gt;
+    https://store.primeprovisions.cr&lt;/a&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
